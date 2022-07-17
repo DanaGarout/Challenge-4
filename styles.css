@@ -15,9 +15,11 @@ body{
     color: #ffffff;
     background-color: #1B244A;;
 }
+
 .section{
     line-height: 3em;
     margin: 38px auto;
+   
 }
 .title{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
